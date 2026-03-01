@@ -1,2 +1,11 @@
-ultralytics
-opencv-python
+ultralytics>=8.0.0
+opencv-python>=4.6.0.66
+matplotlib>=3.2.2
+
+torch>=2.0.0
+torchvision>=0.15.0
+
+numpy>=1.21.6
+ipykernel
+pandas
+PyYAML

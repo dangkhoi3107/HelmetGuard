@@ -22,3 +22,18 @@ dataset/test/
 # Secrets
 .env
 kaggle.json
+
+
+# Bỏ qua thư mục môi trường ảo và cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Bỏ qua thư mục data và kết quả train nặng
+dataset/
+runs/
+
+# Bỏ qua các file video và trọng số model
+*.mp4
+*.avi
+*.pt
