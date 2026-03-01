@@ -24,6 +24,6 @@ The project is organized into two main notebooks:
 ## 🎬 Demo
 ![Detection Result](capture_demo.png)
 ### Video
-![Detection Result](demo/demo_helmet_guard.mp4)
+![Detection Result](demo_helmet_guard.mp4)
 
 

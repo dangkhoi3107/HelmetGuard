@@ -33,7 +33,4 @@ __pycache__/
 dataset/
 runs/
 
-# Bỏ qua các file video và trọng số model
-*.mp4
-*.avi
 *.pt
