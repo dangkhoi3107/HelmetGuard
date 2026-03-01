@@ -22,7 +22,7 @@ The project is organized into two main notebooks:
 * **`run.ipynb`**: Implements the core `NO_HELMET` detection logic, processing both images and video files.
 
 ## 🎬 Demo
-![Detection Result](demo/capture_demo.png)
+![Detection Result](capture_demo.png)
 ### Video
 ![Detection Result](demo/demo_helmet_guard.mp4)
 
