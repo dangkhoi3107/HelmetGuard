@@ -32,5 +32,6 @@ __pycache__/
 # Bỏ qua thư mục data và kết quả train nặng
 dataset/
 runs/
+demo/
 .mp4 
 *.pt
